@@ -1,5 +1,5 @@
 Points to note
-The following simple program to calculate the area of a circle
+The following simple program C program to calculate the area of a circle
 two variables used namely:
 			radius
 			area
